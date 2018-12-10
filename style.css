@@ -10,3 +10,18 @@
     width: 50%;
     height: auto;
 }
+.forms{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin-left: 20px;
+}
+.search{
+    width: 520px;
+    height: 34px;
+    margin-left: -140px;
+}
+.search-button{
+    margin-top: 30px;
+    margin-right: 20px;
+}
