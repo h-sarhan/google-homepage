@@ -17,11 +17,22 @@
     margin-left: 20px;
 }
 .search{
-    width: 520px;
-    height: 34px;
+    width: 584px;
+    height: 44px;
     margin-left: -140px;
 }
-.search-button{
+.search-button, .lucky-button{
+    border: 2px solid rgba(219, 219, 219, 0.856);
+    font-weight: bold;
+    padding: 10px;
     margin-top: 30px;
     margin-right: 20px;
+    background-color: #cfcfcf81;
+    color: rgb(85, 84, 84);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-button:hover, .lucky-button:hover{
+    color: black;
+    border: 2px solid #a1a1a1fd
 }
