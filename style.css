@@ -36,3 +36,35 @@
     color: black;
     border: 2px solid #a1a1a1fd
 }
+.topleft ul li{
+    float: left;
+}
+.topleft ul li a{
+    display: block;
+  text-align: center;
+  padding: 14px 16px;
+}
+ul{
+    list-style-type: none;
+}
+.topright ul li{
+    float: right;
+
+}
+.topright ul li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+.sign-in{
+    color: white;
+    background-color: rgb(62, 94, 233);
+    border: 0px;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.products{
+    width : 50%;
+    height: auto;
+}
