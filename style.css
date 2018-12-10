@@ -1,0 +1,12 @@
+.logo{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    margin-left: -136px;
+    margin-top: -150px;
+   
+}
+.logo img{
+    width: 50%;
+    height: auto;
+}
